@@ -6,3 +6,5 @@
 - chapter 3 用tensorflow实现神经网络模型
 - chapter 4 模型的保存和可视化
 - chapter 5 利用gpu实现并行计算
+
+> 尝试利用 contrib.learn 来进行机器学习，主要实现lstm对sequence数据的预测
